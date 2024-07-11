@@ -1,0 +1,2 @@
+property means variable which i declare
+behaviour means method
